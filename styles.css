@@ -11013,10 +11013,10 @@ body {
     color: #b17c54;
   }
   #mainNav .nav-link:hover {
-    color: rgba(255, 255, 255, 0.75);
+    color: #c69b7c;
   }
   #mainNav .nav-link:active {
-    color: #fff;
+    color: #c69b7c
   }
   #mainNav.navbar-shrink {
     background-color: #fff;
